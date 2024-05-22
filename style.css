@@ -5,3 +5,11 @@ Author URI: http://ash1eygrace.com
 Description: A fictional university theme developed along side Brad Schiff's Become a WordPress Developer: Unlocking Power With Code Udemy course. 
 Version: 1.0
 */
+
+h1 {
+    color: orange;
+}
+
+body {
+    background-color: #f3f3f3;
+}
